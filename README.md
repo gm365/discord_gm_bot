@@ -19,3 +19,9 @@ A Discord gm Bot
 5. 更新 Auth Token 值
 6. 部署 GitHub Actions
 7. 每天自动运行
+
+
+## 参考信息
+
+* [GitHub Actions官方入门文档](https://docs.github.com/cn/actions/quickstart)
+* [GitHub Secrets 官方介绍文档](https://docs.github.com/cn/actions/security-guides/encrypted-secrets)
